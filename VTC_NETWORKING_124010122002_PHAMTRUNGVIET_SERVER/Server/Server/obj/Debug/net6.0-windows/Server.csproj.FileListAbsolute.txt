@@ -1,0 +1,17 @@
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\bin\Debug\net6.0-windows\Server.exe
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\bin\Debug\net6.0-windows\Server.deps.json
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\bin\Debug\net6.0-windows\Server.runtimeconfig.json
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\bin\Debug\net6.0-windows\Server.dll
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\bin\Debug\net6.0-windows\Server.pdb
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\obj\Debug\net6.0-windows\Server.csproj.AssemblyReference.cache
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\obj\Debug\net6.0-windows\Server.Form1.resources
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\obj\Debug\net6.0-windows\Server.csproj.GenerateResource.cache
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\obj\Debug\net6.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\obj\Debug\net6.0-windows\Server.AssemblyInfoInputs.cache
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\obj\Debug\net6.0-windows\Server.AssemblyInfo.cs
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\obj\Debug\net6.0-windows\Server.csproj.CoreCompileInputs.cache
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\obj\Debug\net6.0-windows\Server.dll
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\obj\Debug\net6.0-windows\refint\Server.dll
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\obj\Debug\net6.0-windows\Server.pdb
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\obj\Debug\net6.0-windows\Server.genruntimeconfig.cache
+D:\VTC\Networking Programing Fundamentals\Exercises\ChatSystem\Server\Server\Server\obj\Debug\net6.0-windows\ref\Server.dll
